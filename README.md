@@ -46,14 +46,37 @@ Patrick Star Toll 将常用 AI 工具的账号、额度、连接和配置操作�
 
 ## QQ 交流群
 
-<div align="center">
-  <img src="assets/qq-group-number.png" width="196" height="196" alt="QQ 群号 907736152 的二维码" />
-  <p><strong>派大星研究所</strong> · 群号 <code>907736152</code></p>
-  <p>扫描二维码获取群号，或在 QQ 中搜索群号申请加入。</p>
-</div>
+使用中遇到问题，或想交流账号管理、模型验证与配置切换的经验，欢迎加入 **派大星研究所**。
 
-欢迎交流使用体验、问题与建议。请不要在群聊或 Issue 中公开密码、Token、Cookie、私人服务地址等敏感信息。
+<table>
+  <tr>
+    <td align="center" width="240">
+      <img src="assets/qq-group-number.png" width="188" height="188" alt="QQ 群号 907736152 二维码" /><br />
+      <sub>扫一扫，获取群号</sub>
+    </td>
+    <td valign="middle">
+      <img src="assets/qq-logo.svg" width="36" height="36" alt="QQ Logo" />
+      <h3>派大星研究所</h3>
+      <p><strong>QQ 群号：<code>907736152</code></strong></p>
+      <p>打开 QQ 搜索群号，申请加入。二维码包含群号，扫码后也可以复制搜索。</p>
+      <p>交流使用技巧 · 反馈问题 · 讨论新版本</p>
+    </td>
+  </tr>
+</table>
 
+请勿在群聊或 Issue 中公开密码、Token、Cookie、私人服务地址等敏感信息。
+
+## 参考项目与致谢
+
+Patrick Star Toll 在账号管理和服务商配置等方向参考了以下项目，感谢原作者的工作。
+
+| 项目 | 参考方向 |
+| --- | --- |
+| <a href="https://github.com/jlcodes99/cockpit-tools"><img src="https://raw.githubusercontent.com/jlcodes99/cockpit-tools/main/src-tauri/icons/icon.png" width="42" height="42" alt="Cockpit Tools Logo" /></a><br />[Cockpit Tools](https://github.com/jlcodes99/cockpit-tools) | AI IDE 多账号管理、账号切换与配额监控的设计实践。 |
+| <a href="https://github.com/farion1231/cc-switch"><img src="https://raw.githubusercontent.com/farion1231/cc-switch/main/src-tauri/icons/icon.png" width="42" height="42" alt="CC Switch Logo" /></a><br />[CC Switch](https://github.com/farion1231/cc-switch) | 服务商配置的集中管理与切换。 |
+| [LikeAdmin PHP](https://github.com/likeshop-github/likeadmin) | 管理端的账号、角色、菜单与权限体系。 |
+
+以上名称和 Logo 仅用于标明参考来源，不代表与原项目或相关平台存在官方合作或隶属关系。
 ## 问题反馈
 
 可在 [Issues](https://github.com/PaiDX12138/pdx-toll-releases/issues) 描述遇到的问题。请尽量附上应用版本、操作系统与架构、复现步骤、预期结果，以及已经脱敏的错误信息；Cursor 补丁相关问题请注明 Cursor 版本。
