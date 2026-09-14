@@ -61,7 +61,6 @@ Patrick Star Toll 将常用 AI 工具的账号、额度、连接和配置操作�
       <sub>扫一扫，获取群号</sub>
     </td>
     <td valign="middle">
-      <img src="assets/qq-logo.svg" width="36" height="36" alt="QQ Logo" />
       <h3>派大星研究所</h3>
       <p><strong>QQ 群号：<code>907736152</code></strong></p>
       <p>打开 QQ 搜索群号，申请加入。二维码包含群号，扫码后也可以复制搜索。</p>
