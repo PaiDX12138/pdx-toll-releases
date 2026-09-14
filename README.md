@@ -79,7 +79,6 @@ Patrick Star Toll 在账号管理和服务商配置等方向参考了以下项�
 | --- | --- |
 | <a href="https://github.com/jlcodes99/cockpit-tools"><img src="https://raw.githubusercontent.com/jlcodes99/cockpit-tools/main/src-tauri/icons/icon.png" width="42" height="42" alt="Cockpit Tools Logo" /></a><br />[Cockpit Tools](https://github.com/jlcodes99/cockpit-tools) | AI IDE 多账号管理、账号切换与配额监控的设计实践。 |
 | <a href="https://github.com/farion1231/cc-switch"><img src="https://raw.githubusercontent.com/farion1231/cc-switch/main/src-tauri/icons/icon.png" width="42" height="42" alt="CC Switch Logo" /></a><br />[CC Switch](https://github.com/farion1231/cc-switch) | 服务商配置的集中管理与切换。 |
-| [LikeAdmin PHP](https://github.com/likeshop-github/likeadmin) | 管理端的账号、角色、菜单与权限体系。 |
 
 以上名称和 Logo 仅用于标明参考来源，不代表与原项目或相关平台存在官方合作或隶属关系。
 ## 问题反馈
